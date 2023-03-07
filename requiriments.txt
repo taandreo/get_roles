@@ -1,0 +1,4 @@
+azure.identity
+argparse
+azure.mgmt.authorization
+azure.mgmt.subscription
